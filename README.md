@@ -16,7 +16,7 @@ You can even let Sapphire manage multiple SQL Server databases, like we do here 
 
 * Now head to the root of your project's folder.
 
-* You'll now install Sapphire in your project, to do this type on your terminal: `npm install sapphire`
+* You'll now install Sapphire in your project, to do this type on your terminal: `npm install node-sapphire`
 
 * Notice that Sapphire doesn't know your database details. You must provide this to Sapphire.
 
