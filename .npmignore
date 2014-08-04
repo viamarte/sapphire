@@ -1,0 +1,27 @@
+#npmignore for Sapphire
+
+#CONFIG FILES
+.editorconfig
+.gitattributes
+sconfig.json
+
+#COVERAGE FILES
+coverage.html
+
+#SOURCE FILES
+src
+
+#TEST FILES
+test
+
+#BUILD FILES
+Gruntfile.coffee
+
+#.gitignore, just for sure
+.gitignore
+
+#TESTING SPs files
+sql
+
+#CONTRIBUTING FILE
+CONTRIBUTING.md
