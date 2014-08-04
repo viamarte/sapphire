@@ -1,0 +1,26 @@
+#gitignore file for Sapphire
+
+#OS FILES
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#NODE MODULES
+node_modules
+
+#COMPILED SOURCE
+lib
+
+#HTML DOCS
+docs
+
+#CODE COVERAGE REPORT
+coverage.html
+
+#SAPPHIRE CONFIG FILE
+sconfig.json
