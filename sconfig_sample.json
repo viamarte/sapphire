@@ -1,0 +1,23 @@
+{
+  "maxConnections": 15,
+  "serverList": {
+    "myserver": {
+      "server": "127.0.0.1",
+      "userName": "foobar",
+      "password": "mypassword",
+      "options": {
+        "connectionTimeout": 1500
+      }
+    },
+    "anotherserver": {
+      "server": "192.168.0.100",
+      "userName": "baz",
+      "password": "mypassoword",
+      "options": {
+        "connectionTimeout": 1500,
+        "instanceName": "SQL2012"
+      }
+    }
+  },
+  "testingServer": "anotherserver"
+}
