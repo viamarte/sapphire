@@ -30,7 +30,7 @@ You can even let Sapphire manage multiple SQL Server databases, like we do here 
 			  "server": "0.0.0.0", //Server IP address, Sapphire needs the server to be TCP/IP enabled.
 			  "userName": "user", //Connection user name
 			  "password": "pass", //Connection password
-			  "options": { //Opnional key, to define timeouts, different instance name, etc.
+			  "options": { //Optional key to define timeouts, different instance name, etc.
 			    "connectionTimeout": 1500, //Connection timeout in milisseconds
 			    "instanceName": "INSTANCENAME" //Instance name, if applicable
 			  }
