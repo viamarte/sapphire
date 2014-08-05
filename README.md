@@ -1,4 +1,4 @@
-Sapphire
+Sapphire ![Version](http://img.shields.io/badge/Version-1.0.0-blue.svg) ![Coverage](http://img.shields.io/badge/Coverage-100%25-brightgreen.svg)
 ========
 
 ## What?
